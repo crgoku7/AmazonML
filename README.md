@@ -139,3 +139,16 @@ entity_unit_map = {
   }
 }
 ```
+### Tech Stack
+
+- Python
+- Hugging Face
+- Visual Question Answering (VQA)
+- InternVL
+
+## Contributors🛩️
+
+- Deepak Bhatter [@DeepakBhatter](https://www.linkedin.com/in/deepak-bhatter5512?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BoCYT3PQmTJKYeWeOME6%2BdA%3D%3D)
+- Tushar Bhatt [@TusharBhatt](https://www.linkedin.com/in/tushar-bhatt-6031a5253?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BzitutbMqTRShyjk8F6UWAA%3D%3D)
+- Mayank Agrawal [@MayankAgrawal](https://www.linkedin.com/in/mayank-agrawal-030436245?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BWI5O3L9mSg25QSV5SmeBCQ%3D%3D)
+- Rahul Sharma [@RahulSharma](https://www.linkedin.com/in/rahul-sharma-8bb270259?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BnrhobKq%2FQQi3eOf8lKuWdQ%3D%3D)
